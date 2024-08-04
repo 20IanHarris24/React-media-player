@@ -1,0 +1,6 @@
+Generally improve the interactivity so it can be a full demo (excluding playig media)
+(High level description) Click and highlight effects to for user feedback purposes.
+(High level description) When "choosing" a tune the now playing page should update.
+(High level description) Simulate 'play' with buttons and generall actions
+(High level description) Simulate 'Add' and 'Fav' button actions
+(High level description) Styling colouring, playbutton and progress bar animations.
