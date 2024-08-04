@@ -1,0 +1,19 @@
+.header {
+
+    align-items: center;
+    background-color: #17263d;
+    border-bottom: 3px solid cadetblue;
+    display: flex;
+    flex-direction: row;
+    justify-content:space-between;
+}
+
+.playlist-name{
+    
+    color: antiquewhite;
+    font-size: 1.5rem;
+    margin-bottom: 1.5rem;
+    margin-top: 1.5rem;
+    padding: 0.5rem;
+    text-transform: capitalize;   
+}

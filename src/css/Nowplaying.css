@@ -1,0 +1,57 @@
+.nowplaying {
+
+    align-items: center;
+    background-color: #17263d;
+    border-bottom: 5px solid cadetblue;
+    border-left: 3px solid cadetblue;
+    display: flex;
+    flex-direction: column;
+}
+
+.figure {
+
+    /* background-color: brown; */
+    border-radius: 5px;
+    height: 500px;
+    margin: 3rem;
+    width:500px;
+}
+
+
+.figure .image{
+
+    border-radius: 5px;
+    width:100%;
+}
+
+.title{
+
+    align-items: center;
+    display: flex;
+    flex-direction: row;
+    gap: 9rem;
+    width: 100%;
+}
+
+.text .artist{
+    
+    color: antiquewhite;
+    text-transform: capitalize;
+}
+
+.text .songtitle{
+    
+    color: antiquewhite;
+    text-transform: capitalize;
+}
+
+.controlbtns{
+    
+    align-items: center;
+    display: flex;
+    flex-direction: row;
+    gap: 6rem;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    width: 100%;
+}

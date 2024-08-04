@@ -1,0 +1,20 @@
+.container{
+    
+    margin: 0px;
+    padding: 0px;
+}
+
+.tracklist {
+
+    background-color:#17263d;
+    border-bottom: 5px solid cadetblue;
+    display: flex;
+    flex-direction: column;
+    /* height: 100vh; */
+}
+
+.tracklist .row{
+    
+    display: flex;
+    flex-direction: column;
+}

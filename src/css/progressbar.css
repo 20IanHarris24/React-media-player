@@ -1,0 +1,17 @@
+.progress-container{
+    
+    align-items: center;
+    color: antiquewhite;
+    display: flex;
+}
+
+.time{
+    
+    margin: 1rem;
+}
+
+.progress-bar{
+
+   width: 500px;
+}
+

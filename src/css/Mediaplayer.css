@@ -1,0 +1,12 @@
+.container-fluid{
+        
+        /* background-color: #7e7785; */
+        width: 100%;
+        margin: 0px;
+        padding: 0px;
+        
+}
+
+.mediaplayer-sub{
+        height: 100vh;
+}

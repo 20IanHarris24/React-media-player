@@ -1,0 +1,63 @@
+*{
+    box-sizing: content-box;
+}
+
+
+
+.track .figure{
+
+    height: 130px;
+    text-align: right;
+}
+
+
+
+.figure .trackimg{
+    
+    border-radius: 3px;
+    width: 100%;
+}
+
+.song .artist{
+    
+    margin: 0rem;
+}
+
+.song .songtitle{
+    
+    margin: 0rem;
+}
+
+
+.track{
+
+    align-items: center;
+    display: flex;
+    flex-direction: row;
+    gap: 8rem;
+}
+
+.track .song{
+    color: antiquewhite; 
+    font-size: 0.8rem;
+    padding: 0.5rem;
+    text-transform: capitalize;
+}
+
+.track .plybtn{
+
+    text-align: right;
+}
+
+.track .container{
+    
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    margin-bottom: 0.5rem;
+    margin-left: 2.5rem;
+    margin-right: 0.5rem;
+    margin-top: 0.5rem;
+    padding: 0.5rem;
+    width: 130px;
+}
